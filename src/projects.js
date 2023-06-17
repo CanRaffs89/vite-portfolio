@@ -22,17 +22,10 @@ export const projectData = [
     },
     {
         name: "Little Leaf Tea",
-        description: "A plain HTML site for a fictional tea company. Also a first attempt at creating my own SVG icons.",
+        description: "A plain HTML site for a fictional tea company. Also a graphic design experiment in creating my own SVG icons.",
         image: "./portfolio_littleleaftea.png",
         website: "https://canraffs89.github.io/little-leaf-co/",
         code: "https://github.com/CanRaffs89/little-leaf-co"
-    },
-    {
-        name: "SR Woodcraft",
-        description: "A small plain HTML site for a local sawmilling business. This site has a dual purpose - to attract business, but also to advertise the owner's furniture making side business.",
-        image: "./portfolio_woodcraft.png",
-        website: "https://www.srwoodcraft.co.uk/",
-        code: "https://github.com/CanRaffs89/sr-woodcraft"
     },
     {
         name: "Shoe Tracker",
