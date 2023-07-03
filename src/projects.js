@@ -7,6 +7,13 @@ export const projectData = [
         code: "https://github.com/CanRaffs89/record-label-frontend"
     },
     {
+        name: "Tech Digest",
+        description: "A NextJS app that fetches the latest technology and gaming news from the GNews API",
+        image: "./portfolio_techdigest.png",
+        website: "https://nextjs-news-1bx4vlfkq-canraffs89.vercel.app/",
+        code: "https://github.com/CanRaffs89/nextjs-news-app"
+    },
+    {
         name: "Biketribe",
         description: "A Laravel and MySQL project designed to help people find and arrange one-off cycling events without the need to join a club. Users can register, login and manage their events from their profile page.",
         image: "./portfolio_biketribe.png",
